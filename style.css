@@ -1,0 +1,12 @@
+body{
+    background-color: antiquewhite;
+}
+table{
+    border-spacing: 0;
+}
+th{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+}
